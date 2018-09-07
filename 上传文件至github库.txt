@@ -1,0 +1,4 @@
+1 git clone git@github.com:ywq421/(文件名).git 
+2 git inti
+3 git add git commit -m"Xx"#添加文件，做修改应该git checkout -b -路径，避免修改源码
+4 git push origin master #同步文件
